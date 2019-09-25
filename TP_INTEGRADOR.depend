@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1569447160 source:c:\users\totil\onedrive\escritorio\proyectos cb\tp_integrador\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	"estruc.h"
+	"validaciones.h"
+	"submenufuncion.h"
+	"funciones.h"
+	"submenu.h"
+	"menuprincipal.h"
+
+1569194906 c:\users\totil\onedrive\escritorio\proyectos cb\tp_integrador\estruc.h
+
+1569449915 c:\users\totil\onedrive\escritorio\proyectos cb\tp_integrador\submenu.h
+
+1569445126 c:\users\totil\onedrive\escritorio\proyectos cb\tp_integrador\funciones.h
+
+1569449915 c:\users\totil\onedrive\escritorio\proyectos cb\tp_integrador\menuprincipal.h
+
+1569445112 c:\users\totil\onedrive\escritorio\proyectos cb\tp_integrador\validaciones.h
+
+1569449915 c:\users\totil\onedrive\escritorio\proyectos cb\tp_integrador\submenufuncion.h
+
